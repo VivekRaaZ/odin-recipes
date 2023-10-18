@@ -108,7 +108,6 @@ To run tests, run the following command:
 
 ```sh
 npx hint .
-npx stylelint "**/*.{css,scss}"
 ```
 
 
