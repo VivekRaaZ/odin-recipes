@@ -2,7 +2,7 @@
 <div align="center">
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDP4PWzE_sUIjW_89SmPmHtIpXUSZs0O90Eg&usqp=CAU" alt="logo" width="400px"  height="100px" />
-  <h2><b>Recipes Readme Template</b></h2>
+  <h1><b>Recipes Readme Template</b></h1>
   
 </div>
 # 📗 Table of Contents
