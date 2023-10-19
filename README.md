@@ -150,7 +150,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thanks microverse team, github team and my coding partners, who contributed towards the completion of this task.
+> I would like to thanks The Odin Project team, github team and my coding partners, who contributed towards the completion of this task.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
