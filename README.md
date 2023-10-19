@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 <div align="center">
   
-  <img src="img/logo.png" alt="logo" width="300"  height="auto" />
-  <h3><b>Recipes Readme Template</b></h3>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDP4PWzE_sUIjW_89SmPmHtIpXUSZs0O90Eg&usqp=CAU" alt="logo" width="400px"  height="100px" />
+  <h1><b>Recipes Readme Template</b></h1>
   
 </div>
 # 📗 Table of Contents
@@ -29,7 +29,7 @@
 
 # 📖 Portfolio: desktop version <a name="about-project"></a>
 
-**Portfolio: desktop version** is a webpage built as a first project to showcase html, linters,  skills growup during second week of The Odin Project.
+**Portfolio: desktop version** is a webpage built as a first project to showcase html, linters,  skills growup during html of The Odin Project.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
